@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+
 export class Product {
 
     /* this is a long way of doing it. 
